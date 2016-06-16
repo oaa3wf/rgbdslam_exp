@@ -1,12 +1,16 @@
-*.class
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+./rgbdslam_v2/cmake-modules/
+./rgbdslam_v2/external/
+./rgbdslam_v2/media/
+./rgbdslam_v2/rgbd_benchmark/
+./rgbdslam_v2/srv/
+./rgbdslam_v2/test/
+./rgbdslam_v2/xtion_calibrated/
+./rgbdslam_v2/CMakeLists.txt
+./rgbdslam_v2/COPYING
+./rgbdslam_v2/log.conf
+./rgbdslam_v2/mainpage.dox
+./rgbdslam_v2/rosdep.yml
+./rgbdslam_v2/rosdoc.yml
+./rgbdslam_v2/package.xml
+./rgbdslam_v2/README.md
